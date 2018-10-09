@@ -39,7 +39,9 @@ If you find Fast DeepBox useful in your research, please consider citing:
   *Note:* Caffe doesn't have to be built with support for Python layers!
 
   You can download my [Makefile.config](http://www.cs.berkeley.edu/~wckuo/fast-dbox-data/Makefile.config) for reference.
+  
 2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
+
 3. MATLAB (required for running COCO evaluation)
 
 ### Requirements: hardware
